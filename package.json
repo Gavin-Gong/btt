@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/cheerio": "^0.22.17",
     "@types/iconv-lite": "0.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "iconv-lite": "^0.5.1"
   }
